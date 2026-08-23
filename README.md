@@ -20,7 +20,7 @@ Three years ago I joined Shurq, a UK SaaS platform for Amazon sellers, as a juni
 
 I also work with Croncore on AI products, where I built the frontend and the chatbot for a bilingual K–12 learning platform, plus their company site.
 
-Nobody taught me this stack. I learned it by shipping to real users, and the products below are the evidence. I'm finishing a B.S. in Artificial Intelligence at Pak-Austria Fachhochschule (PAF-IAST) in 2026, and I'm open to remote work anywhere.
+Nobody taught me this stack. I learned it by shipping to real users, and the products below are the evidence. I've completed my B.S. in Artificial Intelligence at Pak-Austria Fachhochschule (PAF-IAST) in 2026, and I'm open to remote work anywhere.
 
 ---
 
@@ -50,7 +50,7 @@ Nobody taught me this stack. I learned it by shipping to real users, and the pro
 
 ## Building Now
 
-Multi-agent orchestration, the next step up from the single-agent reviewer above. Also HeyTube, a voice-controlled YouTube extension that falls back to an LLM for commands it doesn't recognise.
+**Multi Agent Orchestration**, the next step up from the single-agent reviewer above. Also HeyTube, a voice controlled YouTube extension that falls back to an LLM for commands it doesn't recognise.
 
 ---
 
