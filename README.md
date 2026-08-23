@@ -8,8 +8,7 @@ I build web products end to end, then build the AI agents that help ship them fa
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2)](https://www.linkedin.com/in/zaland-aman-khan) &nbsp; [![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&labelColor=1F2937)](mailto:zaland181291@gmail.com) &nbsp; ![Open to remote roles](https://img.shields.io/badge/Open%20to%20Remote%20Roles-1F2937?style=for-the-badge&labelColor=1F2937)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2)](https://www.linkedin.com/in/zaland-aman-khan) &nbsp; [![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&labelColor=1F2937)](mailto:zaland181291@gmail.com) &nbsp;
 </div>
 
 ---
